@@ -39,6 +39,5 @@ This is my first C++ mini project, built to apply the programming concepts I lea
 The project will be expanded and improved as I learn more C++ concepts.
 
 ## Current Version
-Version 1.0
 
 **Version 1.0**
